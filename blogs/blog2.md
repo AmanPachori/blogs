@@ -1,4 +1,4 @@
-# My Blog
+# My Blog 2
 
 This repository contains a React-based blog application that dynamically fetches and displays Markdown blog posts stored in the `blogs` directory. The blog posts are automatically processed and published using a GitHub Actions workflow.
 
