@@ -4,7 +4,8 @@ on:
   push:
     paths:
       - 'blogs/**'  # Trigger on changes to files in the blogs directory
-
+permissions:
+  contents: write
 jobs:
   publish:
     runs-on: ubuntu-latest
